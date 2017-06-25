@@ -1,0 +1,12 @@
+.idea
+*.iml
+.factorypath
+classes
+target
+bin/
+.classpath
+.project
+.settings/
+.gradle/
+build/
+Gemfile.lock
